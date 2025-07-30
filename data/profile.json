@@ -45,13 +45,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto de LandingPage Designg de Interiores",
+      "url": "https://github.com/MatheusIzaquiel/Landing-Page-desing-interiores",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto de Cardápio de Hamburgueria",
+      "url": "https://github.com/MatheusIzaquiel/Cardapio",
       "github": true
     }
   ],
