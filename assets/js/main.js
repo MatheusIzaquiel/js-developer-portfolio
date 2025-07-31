@@ -61,9 +61,9 @@ function updatePortfolio(profileData) {
     .join("");
 }
 
-function updateprofessionalExperience(profileData) {
-  const experiencia = document.getElementById("profile.professionalExperience");
-  experiencia.innerHTML = profileData.professionalExperience
+function updateProfessionalExperience(profileData) {
+  const professionalExperience = document.getElementById("profile.professionalExperience");
+  professionalExperience.innerHTML = profileData.professionalExperience
     .map((experience) => {
       return `
       <li>
