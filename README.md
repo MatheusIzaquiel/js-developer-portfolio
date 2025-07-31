@@ -17,7 +17,7 @@ Descrição curta e objetiva do projeto. Explique em uma frase o que o projeto f
 - HTML5
 - CSS3
 - JavaScript
-- [Outras tecnologias, se houver]
+- Simulando consumo de API com Json
 
 ---
 
