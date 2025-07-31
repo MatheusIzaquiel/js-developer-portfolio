@@ -39,10 +39,7 @@
       "Organização"
     ]
   },
-  "languages": [
-    "Português BR",
-    "Inglês (Básico)"
-  ],
+  "languages": ["Português BR", "Inglês (Básico)"],
   "portfolio": [
     {
       "name": "Projeto de LandingPage Designg de Interiores",
